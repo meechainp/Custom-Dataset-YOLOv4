@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Orange</folder>
+  <filename>c7f6e9534c1fa34c.jpg</filename>
+  <path>D:\Comp2-2563\project\yolov4-test\DowloadImage\OIDv4_ToolKit\OID\Dataset\train\Orange\c7f6e9534c1fa34c.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>849</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Orange</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>303</xmin>
+      <ymin>281</ymin>
+      <xmax>668</xmax>
+      <ymax>676</ymax>
+    </bndbox>
+  </object>
+</annotation>

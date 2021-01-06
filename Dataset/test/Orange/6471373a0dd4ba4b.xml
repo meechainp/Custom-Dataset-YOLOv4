@@ -1,0 +1,26 @@
+<annotation>
+  <folder>Orange</folder>
+  <filename>6471373a0dd4ba4b.jpg</filename>
+  <path>D:\Comp2-2563\project\yolov4-test\DowloadImage\OIDv4_ToolKit\OID\Dataset\test\Orange\6471373a0dd4ba4b.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>575</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Orange</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>118</xmin>
+      <ymin>53</ymin>
+      <xmax>850</xmax>
+      <ymax>530</ymax>
+    </bndbox>
+  </object>
+</annotation>
